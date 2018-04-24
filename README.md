@@ -1,4 +1,4 @@
 # Hello-world
 
 
-I tried serveral time to find the funcking pencil on the upper right!
+I tried serveral time to find the pencil on the upper right!
